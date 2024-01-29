@@ -1,0 +1,1 @@
+function sumArray(array) {}
