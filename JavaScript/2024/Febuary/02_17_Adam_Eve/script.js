@@ -6,4 +6,3 @@ class God {
     // code
   }
 }
-// code
